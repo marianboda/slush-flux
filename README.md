@@ -1,14 +1,13 @@
-# gener [![Build Status](https://secure.travis-ci.org/marianboda/slush-gener.png?branch=master)](https://travis-ci.org/marianboda/slush-gener) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-gener.png)](http://badges.enytc.com/for/npm/slush-gener)
+# slush-flux
 
-> none
-
+Slush generator for Flux Applications
 
 ## Getting Started
 
-Install `slush-gener` globally:
+Install `slush-flux` globally:
 
 ```bash
-$ npm install -g slush-gener
+$ npm install -g slush-flux
 ```
 
 ### Usage
@@ -16,13 +15,13 @@ $ npm install -g slush-gener
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-gener
+$ mkdir my-slush-flux
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-gener && slush gener
+$ cd my-slush-flux && slush flux
 ```
 
 ## Getting To Know Slush
@@ -33,18 +32,14 @@ Slush does not contain anything "out of the box", except the ability to locate i
 
 To find out more about Slush, check out the [documentation](https://github.com/klei/slush).
 
-## Contributing
-
-See the [CONTRIBUTING Guidelines](https://github.com/marianboda/slush-gener/blob/master/CONTRIBUTING.md)
-
 ## Support
-If you have any problem or suggestion please open an issue [here](https://github.com/marianboda/slush-gener/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/marianboda/slush-flux/issues).
 
-## License 
+## License
 
 The MIT License
 
-Copyright (c) 2014, 
+Copyright (c) 2014,
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
@@ -66,4 +61,3 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
