@@ -15,13 +15,13 @@ $ npm install -g slush-flux
 Create a new folder for your project:
 
 ```bash
-$ mkdir my-slush-flux
+$ mkdir flux-project
 ```
 
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-flux && slush flux
+$ cd flux-project && slush flux
 ```
 
 ## Getting To Know Slush
