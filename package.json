@@ -1,22 +1,22 @@
 {
     "name": "slush-gener",
-    "description": "none",
-    "version": "0.1.0",
-    "homepage": "https://github.com/marianboda/slush-gener",
+    "description": "Slush generator for Flux Applications",
+    "version": "0.0.1",
+    "homepage": "https://github.com/marianboda/slush-flux",
     "author": {
-        "name": "",
+        "name": "Marian Boda",
         "email": "marianboda@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/marianboda/slush-gener.git"
+        "url": "git://github.com/marianboda/slush-flux.git"
     },
     "bugs": {
-        "url": "https://github.com/marianboda/slush-gener/issues"
+        "url": "https://github.com/marianboda/slush-flux/issues"
     },
     "licenses": [{
         "type": "MIT",
-        "url": "https://github.com/marianboda/slush-gener/blob/master/LICENSE"
+        "url": "https://github.com/marianboda/slush-flux/blob/master/LICENSE"
     }],
     "main": "slushfile.js",
     "engines": {
